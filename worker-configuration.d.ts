@@ -1,3 +1,3 @@
 interface Env {
-  ANTHROPIC_API_KEY: string;
+  // No API key needed for G4F
 }
